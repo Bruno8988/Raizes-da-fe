@@ -1,10 +1,10 @@
-# Raízes da Fê
+# Raízes da Fé
 
 Aplicativo cristão para devocionais, oração, estudos e acesso à Bíblia NVI online.
 
 ## Identidade
 
-- **Nome:** Raízes da Fê
+- **Nome:** Raízes da Fé
 - **Criador:** Bruno
 - **Assinatura exibida:** “Feito com carinho por Bruno”
 - **Pacote Android:** `br.com.presenca.app`
